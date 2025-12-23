@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ----
  
 * dit or gguf    [links](https://huggingface.co/smthem/SteadyDancer-14B-diffusers-gguf-dit/tree/main)   #gguf有别于city96的
+* [夸克网盘](https://pan.quark.cn/s/1047c55e4ab5)，提取码：2s6k
 * Comfy umT5 ，wan 2.1 vae  clip-vision-h  [links](https://huggingface.co/Comfy-Org/models)   #comfy  umT5 以及wan 2.1 vae   
 ```
 ├── ComfyUI/models/
