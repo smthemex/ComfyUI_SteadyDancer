@@ -43,7 +43,7 @@ class SteadyDancer_SM_Model(io.ComfyNode):
                 io.Combo.Input("gguf",options= ["none"] +folder_paths.get_filename_list("gguf") ),   
             ],
             outputs=[
-                io.Custom("SteadyDancer_SM_Model").Output("model"),
+                io.Custom("SteadyDancer_SM_Model").Output(display_name="model"),
                 ],
             )
     @classmethod
